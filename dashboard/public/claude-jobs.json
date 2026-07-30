@@ -1,10 +1,9 @@
 {
-  "lastUpdated": "2026-07-29T05:41:45.553251+00:00",
-  "totalJobs": 100,
+  "lastUpdated": "2026-07-30T05:30:43.810782+00:00",
+  "totalJobs": 99,
   "sources": [
     "Anthropic",
-    "HackerNews",
-    "WeWorkRemotely"
+    "HackerNews"
   ],
   "jobs": [
     {
@@ -558,26 +557,6 @@
       "tags": [
         "Claude Code",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-arize-ai-open-source-design-engineer",
-      "company": "Arize Ai",
-      "position": "Open Source Design Engineer",
-      "location": "Remote",
-      "remote": true,
-      "salary": "$145,000 - $185,000,",
-      "description": "Headquarters: Remote (United States) About Arize AI is rapidly transforming the world. As generative AI reshapes industries, teams need powerful ways to monitor, troubleshoot, and optimize their AI systems. That’s where we come in. Arize AI is the leading AI & Agent Engineering observability and...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
-      "postedAt": "2026-06-30T20:31:42+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Rust",
-        "Claude Code"
       ],
       "companyIcon": ""
     },
